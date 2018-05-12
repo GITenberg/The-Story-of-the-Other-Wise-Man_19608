@@ -1,0 +1,40 @@
+_repo: The-Story-of-the-Other-Wise-Man_19608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Jackson Van
+    - Dyke, Henry I. Van
+    - Dyke, Henry Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: Following signs in the heavens, Artaban--a priest of the Magi--embarks
+  on a journey to bring gifts of sapphire, ruby, and pearl to the newborn king of
+  the Jews. Intending to meet the caravan bearing the other three wise men across
+  the desert, he stops to aid a dying man and misses the caravan. Artaban is willing
+  to do whatever he must to complete his journey, but it seems luck is not on his
+  side. Despite his best efforts, the quest may not be one he is able to complete.
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Magi -- Fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'Christian fiction'
+title: The Story of the Other Wise Man
+url: http://www.gutenberg.org/ebooks/19608
